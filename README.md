@@ -1,7 +1,15 @@
 
-# 💜 Naavya AI – Smart Glass Chatbot
+#  Naavya AI – Smart Glass Chatbot
 
-A stylish AI-powered desktop chatbot built using Python with a modern lavender glass UI and Gemini API integration.
+A modern AI-powered desktop chatbot built using Python, CustomTkinter, and Google Gemini API featuring a stylish glassmorphism UI, real-time responses, chat history, export functionality, and dark/light theme support.
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+
+![Gemini API](https://img.shields.io/badge/Gemini-AI-purple?style=for-the-badge)
+
+![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-pink?style=for-the-badge)
+
+
 
 ---
 
