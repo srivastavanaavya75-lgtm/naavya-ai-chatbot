@@ -60,7 +60,7 @@ python chatbot.py
 - Implemented chat persistence and export functionality
 
 
-  ## 🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Voice assistant support
 - AI memory enhancement
