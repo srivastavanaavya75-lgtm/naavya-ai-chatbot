@@ -58,3 +58,12 @@ python chatbot.py
 - Integrated real-time AI responses using Gemini API
 - Designed a modern glass-style UI for better user experience
 - Implemented chat persistence and export functionality
+
+
+  ## 🔮 Future Improvements
+
+- Voice assistant support
+- AI memory enhancement
+- Cloud chat synchronization
+- Mobile companion application
+- Better personalization system
